@@ -1,5 +1,7 @@
 # MemSync – A Virtual Memory Management System
 
+![MemSync Logo](Logo.png)
+
 ## Intoduction
 MemSync is a Virtual Memory Management system designed to simulate and visualize memory allocation, page replacement algorithms, and process behavior in an operating system environment. The project provides a GUI-based interface to monitor memory usage and observe how different page replacement strategies work in real time.
 [Live Demo]
