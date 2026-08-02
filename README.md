@@ -73,4 +73,4 @@ The application will start locally and launch the GUI.
 4. Observe page faults, memory allocation, and algorithm behavior.
 
 ## Contact
-For any queries, reach out at [bronika2005@gmail.com](mailto:supriyasuman2005@gmail.com)
+For any queries, reach out at [bronika2005@gmail.com](mailto:bronika2005@gmail.com)
